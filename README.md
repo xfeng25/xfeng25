@@ -1,6 +1,6 @@
 ### Hi, I'm Xia (Claire) Feng 👋
 
-Business analyst and project lead with 5+ years delivering enterprise systems at PwC and Dentsu, and a UC Davis MSBA graduate (2026). I build tools that take the repetitive work out of requirements, testing and analysis, using AI coding tools to go from idea to working product.
+Business analyst and project lead with experience of delivering enterprise systems at PwC and Dentsu, and a UC Davis MSBA graduate (2026). I build tools that take the repetitive work out of requirements, testing and analysis, using AI coding tools to go from idea to working product.
 
 #### Projects
 
@@ -12,6 +12,6 @@ Business analyst and project lead with 5+ years delivering enterprise systems at
 | **[JobPilot](https://github.com/xfeng25/jobpilot-bax423-final)** | Job matching across 30,000 postings with explainable ranking, dealbreaker filters, feedback learning and AI-tailored resumes | [Live demo](https://jobpilot-bax423-final-839731102906.us-west1.run.app) |
 
 #### Toolbox
-Requirements & process design · UAT · SQL · Python · Power BI · Excel · Jira · Salesforce · Claude & OpenAI APIs · Claude Code / Cursor
+Requirements & process design · UAT · SQL · Python · Power BI · Excel · Jira · Salesforce · Claude & OpenAI APIs · Claude Code / Cursor · CRM · ERP · Business Analytics · Data Analytics
 
 📫 [LinkedIn](https://www.linkedin.com/in/xia-f/) · xfeng015@gmail.com
